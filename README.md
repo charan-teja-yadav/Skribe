@@ -38,3 +38,4 @@ Telegraf presented some unexpected challenges. In the initial attempts, our scra
 Overall, debugging and refining the spider for Telegraf took considerable time and effort. Several iterations were needed, but in the end, we were able to extract valid data without any significant loss.
 
 ==============================================================================================================================================================================
+link: https://github.com/charan-teja-yadav/Skribe.git
